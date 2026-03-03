@@ -1,9 +1,10 @@
-{"name": "Marlborough Investment Analyzer",
+{
+  "name": "Marlborough Investment Analyzer",
   "short_name": "Marlborough",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#1B4332",
-  "theme_color": "#1B4332",
+  "background_color": "#0F2818",
+  "theme_color": "#0F2818",
   "orientation": "any",
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },

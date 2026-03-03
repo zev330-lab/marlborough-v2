@@ -1,4 +1,4 @@
-const CACHE = "marlborough-v2-1";
+const CACHE = "marlborough-v2-2";
 const ASSETS = ["./", "./index.html", "./app.js", "./data.js", "./manifest.json", "./icon-192.png", "./icon-512.png", "./icon-180.png"];
 
 self.addEventListener("install", e => {
